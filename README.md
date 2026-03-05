@@ -1,7 +1,7 @@
 # Hi! My name's Joao 👋
 
-- 🔭 I’m a Junior Front-End Developer
-- 📕 I’m currently learning JavaScript and TypeScript
+- 🔭 I’m a Software Developer
+- 📕 I’m currently learning Math to use with programming language
 
 <a href="https://github.com/jaovizu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovizu&show_icons=true&theme=synthwave"/>
