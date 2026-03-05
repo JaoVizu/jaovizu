@@ -3,11 +3,6 @@
 - 🔭 I’m a Software Developer
 - 📕 I’m currently learning Math to use with programming language
 
-<a href="https://github.com/jaovizu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaovizu&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovizu&layout=compact&theme=synthwave"/>
-</a>
-
 ##
 
 ### You can find me here 👇
